@@ -1,4 +1,12 @@
+.header-custom{
+  color: red;
+  font-size: 64px;
+}
+.secondary-title{
+  font-size: 20px;
+}
 /*
+
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
  *
